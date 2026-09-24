@@ -1,0 +1,1 @@
+# SURIMI project organisation
