@@ -26,9 +26,9 @@ This GitHub organisation hosts the software developed within SURIMI, including i
 | POSEIDON (ABM) | Simulates fishing activities and fleet behaviour. | [SURIMI-POSEIDON](https://github.com/SURIMI-Project/SURIMI-POSEIDON) |
 | MICE ecosystem model | Models interactions between marine species and fisheries. | add link |
 | Ecopath with Ecosim (EwE) | Models marine ecosystems and food-web dynamics. | [SURIMI-Ecopath](https://github.com/SURIMI-Project/SURIMI-Ecopath) |
-| CMSY++ assessment model | Supports fish stock assessment. | [SURIMI-CMSY](https://github.com/SURIMI-Project/SURIMI-CMSY) |
+| CMSY++ | Supports fish stock assessment. | [SURIMI-CMSY](https://github.com/SURIMI-Project/SURIMI-CMSY) |
+| Fisheries Authority (MSE) | Evaluates and implements fisheries management strategies during simulations. | [SURIMI-fisheries-authority](https://github.com/SURIMI-Project/SURIMI-fisheries-authority) |
 | NLP assessment model | Provides tools to explore and interpret marine and fisheries data. | [SURIMI-data-mcp](https://github.com/SURIMI-Project/SURIMI-data-mcp) |
-| Fisheries Authority (MSE policy model) | Evaluates and implements fisheries management strategies during simulations. | [SURIMI-fisheries-authority](https://github.com/SURIMI-Project/SURIMI-fisheries-authority) |
 | NLP policy model | Provides tools to explore and interpret simulation results. | [SURIMI-model-mcp](https://github.com/SURIMI-Project/SURIMI-model-mcp) |
 
 ### User Interfaces
