@@ -15,31 +15,40 @@ SURIMI also develops graphical user interfaces (GUIs) for exploring marine and f
 
 ## Software and Models
 
-This GitHub organisation hosts the software developed within SURIMI, including individual models, simulation services, and supporting tools.
+This GitHub organisation hosts the software developed within SURIMI, including individual models, user interfaces, and supporting infrastructure.
 
-### Socio-ecological Models
+### Models
 
 | Model | Description | Repository |
 |---|---|---|
-| System dynamics economic model | Simulates first-sale fish prices in local port markets. | [SURIMI-market](https://github.com/SURIMI-Project/SURIMI-market) |
+| Market model | Simulates first-sale fish prices in local port markets. | [SURIMI-market](https://github.com/SURIMI-Project/SURIMI-market) |
 | Product flow value-chain model | Models fish product flows through the value chain. | [SURIMI-value-chain](https://github.com/SURIMI-Project/SURIMI-value-chain) |
-| Agent-based model (POSEIDON) | Simulates fishing activities and fleet behaviour. | [SURIMI-POSEIDON](https://github.com/SURIMI-Project/SURIMI-POSEIDON) |
+| POSEIDON (ABM) | Simulates fishing activities and fleet behaviour. | [SURIMI-POSEIDON](https://github.com/SURIMI-Project/SURIMI-POSEIDON) |
+| MICE ecosystem model | Models interactions between marine species and fisheries. | — |
 | Ecopath with Ecosim (EwE) | Models marine ecosystems and food-web dynamics. | [SURIMI-Ecopath](https://github.com/SURIMI-Project/SURIMI-Ecopath) |
-| CMSY++ | Supports fish stock assessment. | [SURIMI-CMSY](https://github.com/SURIMI-Project/SURIMI-CMSY) |
-| NLP data model | Provides tools to explore and interpret marine and fisheries data. | [SURIMI-data-mcp](https://github.com/SURIMI-Project/SURIMI-data-mcp) |
+| CMSY++ assessment model | Supports fish stock assessment. | [SURIMI-CMSY](https://github.com/SURIMI-Project/SURIMI-CMSY) |
+| NLP assessment model | Provides tools to explore and interpret marine and fisheries data. | [SURIMI-data-mcp](https://github.com/SURIMI-Project/SURIMI-data-mcp) |
+| Fisheries Authority (MSE policy model) | Evaluates and implements fisheries management strategies during simulations. | [SURIMI-fisheries-authority](https://github.com/SURIMI-Project/SURIMI-fisheries-authority) |
 | NLP policy model | Provides tools to explore and interpret simulation results. | [SURIMI-model-mcp](https://github.com/SURIMI-Project/SURIMI-model-mcp) |
 
-### Simulation Framework
+### User Interfaces
 
-SURIMI uses a modular simulation framework to connect models and exchange data during simulation runs.
+| Tool | Description | Repository |
+|---|---|---|
+| Data GUI | Graphical user interface for exploring marine and fisheries data. | Private |
+| Model GUI | Graphical user interface for configuring, running, and analysing simulations. | Private |
+| SURIMI Chat | Natural-language interaction with data and simulation results using LLMs. | Private |
 
-Key repositories include:
+### Infrastructure
 
-- [SURIMI-controller](https://github.com/SURIMI-Project/SURIMI-controller) – Coordinates the execution of simulation modules.
-- [SURIMI-protocol](https://github.com/SURIMI-Project/SURIMI-protocol) – Defines communication protocols between modules.
-- [SURIMI-fisheries-authority](https://github.com/SURIMI-Project/SURIMI-fisheries-authority) – Implements fisheries management decisions within simulations.
-
-Additional repositories and tools are available in the [SURIMI GitHub organisation](https://github.com/orgs/SURIMI-Project/repositories).
+| Tool | Description | Repository |
+|---|---|---|
+| Controller | Coordinates the execution of simulation modules and manages data exchange. | [SURIMI-controller](https://github.com/SURIMI-Project/SURIMI-controller) |
+| Output Creator | Processes and prepares simulation outputs. | [SURIMI-output-creator](https://github.com/SURIMI-Project/SURIMI-output-creator) |
+| Protocol | Defines communication protocols between simulation modules. | [SURIMI-protocol](https://github.com/SURIMI-Project/SURIMI-protocol) |
+| Semantic Registry | Provides semantic information for model interoperability. | [SURIMI-SemanticRegistry-DotNet](https://github.com/SURIMI-Project/SURIMI-SemanticRegistry-DotNet) |
+| Data Model | Defines shared data structures used by SURIMI services. | [SURIMI-Datamodel-DotNet](https://github.com/SURIMI-Project/SURIMI-Datamodel-DotNet) |
+| Common Library | Provides shared functionality for .NET-based SURIMI modules. | [SURIMI-Common-DotNet](https://github.com/SURIMI-Project/SURIMI-Common-DotNet) |
 
 ## Documentation
 
@@ -61,4 +70,4 @@ For information about the research project, partners, and results, visit the [of
 
 Funded by the European Union under the Horizon Europe Program, Grant Agreement No. 101157456 (SURIMI). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Climate, Infrastructure and Environment Executive Agency (CINEA). Neither the European Union nor the granting authority can be held responsible for them.
 
-UK participants in SURIMI are funded by UK Research and Innovation (UKRI) under the UK government’s Horizon Europe funding Guarantee [grant number 10132993].
+UK participants in SURIMI are funded by UK Research and Innovation (UKRI) under the UK government's Horizon Europe funding Guarantee [grant number 10132993].
