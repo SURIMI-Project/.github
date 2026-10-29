@@ -13,7 +13,7 @@ The project brings together ecological, economic, and social models to explore h
 
 SURIMI also develops graphical user interfaces (GUIs) for exploring marine and fisheries data and configuring, running, and analysing simulations. These include a data GUI and a model GUI, complemented by tools based on large language models (LLMs) that allow users to access, explore, and interpret data and simulation results using natural language.
 
-## Software and Models
+## Models and Tools
 
 This GitHub organisation hosts the software developed within SURIMI, including individual models, user interfaces, and supporting infrastructure.
 
