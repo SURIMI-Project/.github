@@ -7,9 +7,9 @@
 
 ## About SURIMI
 
-SURIMI is a Horizon Europe research project (2024–2027) supporting the EU Mission [*Restore our Ocean and Waters*](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/eu-missions-horizon-europe/restore-our-ocean-and-waters_en) by developing socio-ecological models for sustainable fisheries management and marine policy development.
+SURIMI is a Horizon Europe research project (2024–2027) supporting the EU Mission [Restore our Ocean and Waters](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/eu-missions-horizon-europe/restore-our-ocean-and-waters_en) by developing socio-ecological models for sustainable fisheries management and marine policy development.
 
-The project brings together ecological, economic, and social models to explore how fisheries, marine ecosystems, and coastal communities respond to different management strategies. These models are integrated into a simulation framework designed to contribute to the [*European Digital Twin Ocean (EU DTO)*](https://www.edito.eu/).
+The project brings together ecological, economic, and social models to explore how fisheries, marine ecosystems, and coastal communities respond to different management strategies. These models are integrated into a simulation framework designed to contribute to the [European Digital Twin Ocean (EU DTO)](https://www.edito.eu/).
 
 SURIMI also develops graphical user interfaces (GUIs) for exploring marine and fisheries data and configuring, running, and analysing simulations. These include a data GUI and a model GUI, complemented by tools based on large language models (LLMs) that allow users to access, explore, and interpret data and simulation results using natural language.
 
