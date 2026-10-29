@@ -19,8 +19,6 @@ This GitHub organisation hosts the software developed within SURIMI, including i
 
 ### Models
 
-### Models
-
 | Model | Description | Repository |
 |---|---|---|
 | Market model | Simulates first-sale fish prices in local port markets. | [SURIMI-market](https://github.com/SURIMI-Project/SURIMI-market) |
