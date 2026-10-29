@@ -27,7 +27,7 @@ This GitHub organisation hosts the software developed within SURIMI, including i
 | MICE ecosystem model | Models interactions between marine species and fisheries. | add link |
 | Ecopath with Ecosim (EwE) | Models marine ecosystems and food-web dynamics. | [SURIMI-ecopath](https://github.com/SURIMI-Project/SURIMI-Ecopath) |
 | CMSY++ | Supports fish stock assessment. | [SURIMI-CMSY](https://github.com/SURIMI-Project/SURIMI-CMSY) |
-| Fisheries Authority (MSE) | Evaluates and implements fisheries management strategies during simulations. | [SURIMI-fisheries-authority](https://github.com/SURIMI-Project/SURIMI-fisheries-authority) |
+| Fisheries authority (MSE) | Evaluates and implements fisheries management strategies during simulations. | [SURIMI-fisheries-authority](https://github.com/SURIMI-Project/SURIMI-fisheries-authority) |
 | NLP assessment model | Provides tools to explore and interpret marine and fisheries data. | [SURIMI-data-mcp](https://github.com/SURIMI-Project/SURIMI-data-mcp) |
 | NLP policy model | Provides tools to explore and interpret simulation results. | [SURIMI-model-mcp](https://github.com/SURIMI-Project/SURIMI-model-mcp) |
 
