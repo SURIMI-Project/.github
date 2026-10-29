@@ -24,7 +24,7 @@ This GitHub organisation hosts the software developed within SURIMI, including i
 | Market model | Simulates first-sale fish prices in local port markets. | [SURIMI-market](https://github.com/SURIMI-Project/SURIMI-market) |
 | Product flow value-chain model | Models fish product flows through the value chain. | [SURIMI-value-chain](https://github.com/SURIMI-Project/SURIMI-value-chain) |
 | POSEIDON (ABM) | Simulates fishing activities and fleet behaviour. | [SURIMI-POSEIDON](https://github.com/SURIMI-Project/SURIMI-POSEIDON) |
-| MICE ecosystem model | Models interactions between marine species and fisheries. | — |
+| MICE ecosystem model | Models interactions between marine species and fisheries. | add link |
 | Ecopath with Ecosim (EwE) | Models marine ecosystems and food-web dynamics. | [SURIMI-Ecopath](https://github.com/SURIMI-Project/SURIMI-Ecopath) |
 | CMSY++ assessment model | Supports fish stock assessment. | [SURIMI-CMSY](https://github.com/SURIMI-Project/SURIMI-CMSY) |
 | NLP assessment model | Provides tools to explore and interpret marine and fisheries data. | [SURIMI-data-mcp](https://github.com/SURIMI-Project/SURIMI-data-mcp) |
