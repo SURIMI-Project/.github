@@ -21,16 +21,15 @@ This GitHub organisation hosts the software developed within SURIMI, including i
 
 | Model | Description | Repository |
 |---|---|---|
-| Market model | Simulates first-sale fish prices in local port markets. | [SURIMI-market](https://github.com/SURIMI-Project/SURIMI-market) |
-| Product flow value-chain model | Models fish product flows through the value chain. | [SURIMI-value-chain](https://github.com/SURIMI-Project/SURIMI-value-chain) |
 | POSEIDON (ABM) | Simulates fishing activities and fleet behaviour. | [SURIMI-poseidon](https://github.com/SURIMI-Project/SURIMI-POSEIDON) |
-| MICE ecosystem model | Models interactions between marine species and fisheries. | [SURIMI-mice](https://github.com/SURIMI-Project/SURIMI-mice-model) |
 | Ecopath with Ecosim (EwE) | Models marine ecosystems and food-web dynamics. | [SURIMI-ecopath](https://github.com/SURIMI-Project/SURIMI-Ecopath) |
 | CMSY++ assessment model | Supports fish stock assessment. | [SURIMI-cmsy](https://github.com/SURIMI-Project/SURIMI-CMSY) |
 | Fisheries Authority (MSE policy model) | Evaluates and implements fisheries management strategies during simulations. | [SURIMI-fisheries-authority](https://github.com/SURIMI-Project/SURIMI-fisheries-authority) |
+| Market model | Simulates first-sale fish prices in local port markets. | [SURIMI-market](https://github.com/SURIMI-Project/SURIMI-market) |
+| Product flow value-chain model | Models fish product flows through the value chain. | [SURIMI-value-chain](https://github.com/SURIMI-Project/SURIMI-value-chain) |
+| MICE ecosystem model | Models interactions between marine species and fisheries. | [SURIMI-mice](https://github.com/SURIMI-Project/SURIMI-mice-model) |
 | NLP assessment model | Provides tools to explore and interpret marine and fisheries data. | [SURIMI-data-mcp](https://github.com/SURIMI-Project/SURIMI-data-mcp) |
 | NLP policy model | Provides tools to explore and interpret simulation results. | [SURIMI-model-mcp](https://github.com/SURIMI-Project/SURIMI-model-mcp) |
-| LLM Service | Hosts the language model used by SURIMI Chat. | [SURIMI-vllm](https://github.com/SURIMI-Project/SURIMI-vllm) |
 
 ### User Interfaces
 
@@ -50,6 +49,7 @@ This GitHub organisation hosts the software developed within SURIMI, including i
 | Semantic Registry | Provides semantic information for model interoperability. | [SURIMI-SemanticRegistry-DotNet](https://github.com/SURIMI-Project/SURIMI-SemanticRegistry-DotNet) |
 | Data Model | Defines shared data structures used by SURIMI services. | [SURIMI-Datamodel-DotNet](https://github.com/SURIMI-Project/SURIMI-Datamodel-DotNet) |
 | Common Library | Provides shared functionality for .NET-based SURIMI modules. | [SURIMI-Common-DotNet](https://github.com/SURIMI-Project/SURIMI-Common-DotNet) |
+| LLM Service | Hosts the language model used by SURIMI Chat. | [SURIMI-vllm](https://github.com/SURIMI-Project/SURIMI-vllm) |
 | Terminal | Provides browser-based terminal access to SURIMI services on EDITO. | [SURIMI-terminal](https://github.com/SURIMI-Project/SURIMI-terminal) |
 ## Documentation
 
