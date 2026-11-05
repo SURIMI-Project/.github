@@ -35,9 +35,9 @@ This GitHub organisation hosts the software developed within SURIMI, including i
 
 | Tool | Description | Repository |
 |---|---|---|
-| Data GUI | Graphical user interface for exploring marine and fisheries data. | [SURIMI-datagui](https://github.com/SURIMI-Project/SURIMI-datagui) |
-| Model GUI | Graphical user interface for configuring, running, and analysing simulations. | [SURIMI-modelgui](https://github.com/SURIMI-Project/SURIMI-modelgui) |
-| SURIMI Chat | LLM-based chat interface for exploring and interpreting marine data and simulation results using natural language. | [SURIMI-vllm-ui](https://github.com/SURIMI-Project/SURIMI-vllm-ui) |
+| Data GUI | Graphical user interface for exploring marine and fisheries data. (private) | [SURIMI-datagui](https://github.com/SURIMI-Project/SURIMI-datagui) |
+| Model GUI | Graphical user interface for configuring, running, and analysing simulations. (private) | [SURIMI-modelgui](https://github.com/SURIMI-Project/SURIMI-modelgui) |
+| SURIMI Chat | LLM-based chat interface for exploring and interpreting marine data and simulation results using natural language. (private) | [SURIMI-vllm-ui](https://github.com/SURIMI-Project/SURIMI-vllm-ui) |
 
 ### Infrastructure
 
